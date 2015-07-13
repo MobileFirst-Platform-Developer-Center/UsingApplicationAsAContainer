@@ -1,13 +1,13 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
+### Using MobileFirst as a container for external pages
 
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
-
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/advanced-topics/using-a-mobilefirst-application-as-a-container-for-server-generated-pages/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
