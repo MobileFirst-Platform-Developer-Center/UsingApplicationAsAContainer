@@ -1,22 +1,23 @@
-#Thu Mar 12 09:59:10 CST 2015
-base.iphone=3449151524
+#Mon Aug 03 16:39:54 CDT 2015
+base.iphone=3282524228
 encoding//apps/UsingApplicationAsAContainer/android/css/main.css=UTF-8
 UsingApplicationAsAContainer.iphone.native=4146306826
-base.android=961615611
-jsonstore.windowsphone8=98066318
-common.android=3951631686
+base.android=2494545333
+jsonstore.windowsphone8=2488445466
+common.android=3998981046
 UsingApplicationAsAContainer.android.native=1470319759
-fipshttp.android=3456286054
-wl_version=7.0.0.00.20150227-0916
+fipshttp.android=3517017756
+wl_version=7.1.0.00.20150720-0631
 eclipse.preferences.version=1
-base.windowsphone8=2414973466
+base.windowsphone8=231994352
 encoding/<project>=UTF-8
 jsonstore.android=2033967206
 analytics.ipad=2554529831
-fipshttp.iphone=1503308747
+fipshttp.iphone=2487189175
 encoding//apps/UsingApplicationAsAContainer/common/css/main.css=UTF-8
-fipshttp.ipad=1503308747
-base.ipad=3449151524
+fipshttp.ipad=2487189175
+wl_compatible_version=
+base.ipad=3282524228
 UsingApplicationAsAContainer.windowsphone8.native=3209631912
 encoding//apps/UsingApplicationAsAContainer/iphone/css/main.css=UTF-8
 UsingApplicationAsAContainer.ipad.native=4146306826
